@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EX1</string>
+    <string name="hello">Hello World. Wosea</string>
+    <string name="rutbai">Rut ngau nhien 1 la bai</string>
+    <string name="txtthongbao">thong bao</string>
+    <string name="todo">TODO</string>
+</resources>
